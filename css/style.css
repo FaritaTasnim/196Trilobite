@@ -11,6 +11,16 @@
     justify-content: center;
 }
 
+.sidepage_body {
+    width: 85%;
+    max-width: 900px;
+    height: auto;
+	margin-left: auto;
+	margin-right: auto;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+
 .center {
     width: 75%;
     max-width: 800px;
@@ -249,12 +259,3 @@ li {
 
 }
 */
-
-.centered {
-    text-align: center;
-}
-
-
-.resistor{
-    position: absolute;
-}
